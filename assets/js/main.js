@@ -207,8 +207,6 @@
         }
 	});
 
-	// Buy Now Btn
-    $('body').append("<a href='https://themeforest.net/checkout/from_item/24748730?license=regular&support=bundle_6month&_ga=2.127639053.1035807767.1645331073-1425290503.1590986634' class='buy-now-btn' target='_blank'><img src='assets/img/envato.png' alt='envato'/></a>");
 	
 	// Preloader
 	jQuery(window).on('load', function() {
